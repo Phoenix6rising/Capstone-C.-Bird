@@ -1,0 +1,95 @@
+/* Hello */
+
+* {
+    font-size: 100%;
+    margin: 0;
+    line-height: 1;
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+  }
+  
+  body { 
+      background-color:linen;
+      color:midnightblue;
+      font-family:"Delius",'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      font-size: 14px;
+      margin: 50px;
+      background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/leaves.png);
+      background-repeat: repeat;
+  }
+  
+  .banner {
+    height: 350px;
+    background-image: url("C:\Users\HP\Downloads\indian-land-g8666c6fae_1280.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  p {
+      line-height: 2;
+      margin: 15px 0;
+    }
+  
+  h1 {color:darkcyan;
+      font-size: 30px;
+      text-align: left;
+        
+  }
+  
+  header h1 {
+      text-align: center;
+    }
+  
+  h2 {color:lightseagreen;
+      font-size: 24px;
+  
+    }
+  
+  h3 {color:seagreen;
+      font-size : 21px;
+  
+  }
+  
+  h1,h2,h3 {
+    font-weight: 600;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 20px;
+  }
+  
+  ul, ol {
+    margin: 15px 0;
+  }
+  
+  header,
+  section,
+  footer {
+    padding: 30px;
+  }
+  
+  header {
+    border-bottom: 5px solid grey;
+  }
+  
+  img {
+    height: 300px;
+  }
+  
+  .title {
+    font-size: 48px;
+    text-decoration: underline;
+  }
+  
+  .container {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  a  {
+    color: red;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
