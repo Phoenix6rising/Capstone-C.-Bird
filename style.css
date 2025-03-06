@@ -14,13 +14,13 @@
       font-family:"Delius",'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
       font-size: 14px;
       margin: 50px;
-      background-image: url(C:\Users\HP\Documents\Code\Capstone-C.-Bird\seigaiha.png);
+      background-image: url("./seigaiha.png");
       background-repeat: repeat;
   }
   
-  banner {
+  .banner {
     height: 350px;
-    background-image: url("C:\Users\HP\Downloads\indian-land-g8666c6fae_1280.jpg");
+    background-image: url("./benaja-germann-dQAOdMD-7K8-unsplash\ \(1\).jpg");
     background-size: cover;
     background-position: center;
   }
